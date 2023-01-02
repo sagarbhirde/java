@@ -20,6 +20,9 @@ public class ExceptionHandling {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	System.out.print(ExceptionChecking());
+	
+	System.out.println("fsdjnfjksdjk");
+	
 	}
 
 }
