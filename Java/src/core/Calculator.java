@@ -20,6 +20,7 @@ public class Calculator {
 
 		for (int i = 0; i < tokens.length; i++) {
 
+			
 			// Current token is a
 			// whitespace, skip it
 			if (tokens[i] == ' ')
